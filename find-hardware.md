@@ -13,6 +13,7 @@ For this we mainly have 2 options:
 
 * Windows' built-in Device Manager
 * [AIDA64](https://www.aida64.com/downloads)
+* [HWiNFO] (https://www.hwinfo.com/)
 
 Due to the easier to use GUI, we recommend downloading AIDA64 and running this as it's much easier to grab specs. However we'll show you both methods for obtaining hardware specs.
 
